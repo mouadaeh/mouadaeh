@@ -2,7 +2,7 @@
 
 # Mouad Ait El Hachmi
 
-**Software Engineering Student** · Full-Stack & Data Engineering
+**Software Engineering Student** · Full-Stack & Data Engineering<br>
 Java · Spring Boot · React / Next.js · Python · Kafka · Marrakech, Morocco
 
 <a href="https://www.maeh.me/fr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
