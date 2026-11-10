@@ -68,7 +68,7 @@ Engineering student in **Computer Science** at **ENSA Marrakech** (Cadi Ayyad Un
 
 ## Featured projects
 
-### [BookTrack ChurnGuard](https://github.com/mouadaeh/LIEN-REPO) — churn prediction platform
+### [BookTrack ChurnGuard](https://github.com/churnguard-team/booktrack-churnguard) — churn prediction platform
 Team of 3 · Full-Stack role · Mar–Jun 2026
 - **Frontend:** Next.js 14, React 18, TypeScript.
 - **Backend:** FastAPI REST API with PostgreSQL.
@@ -77,7 +77,7 @@ Team of 3 · Full-Stack role · Mar–Jun 2026
 
 `Next.js` `React` `TypeScript` `FastAPI` `PostgreSQL` `Docker` `AWS`
 
-### [YouTube Sentiment Analysis](https://github.com/mouadaeh/LIEN-REPO) — real-time data pipeline
+### [YouTube Sentiment Analysis](https://github.com/mouadaeh/BigData-sentiment-Youtube) — real-time data pipeline
 Individual project · May–Jun 2026
 - **Streaming:** comments ingested in real time with Apache Kafka.
 - **Processing:** distributed processing with Spark, sentiment classification with BERT.
@@ -86,14 +86,14 @@ Individual project · May–Jun 2026
 
 `Python` `Kafka` `Spark` `BERT` `Elasticsearch` `Streamlit` `Docker`
 
-### [Stock Management](https://github.com/mouadaeh/LIEN-REPO) — desktop inventory app
+### [Stock Management](https://github.com/hananebelhyane/gestion-stock-java) — desktop inventory app
 Team of 7 · Oct 2025 – Jan 2026
 - JavaFX client + Spring Boot REST API + MySQL, built with Maven.
 - Responsible for the **orders module**.
 
 `Java` `JavaFX` `Spring Boot` `MySQL` `Maven`
 
-### [Battleship AI](https://github.com/mouadaeh/LIEN-REPO) — reinforcement learning game
+### [Battleship AI](https://github.com/mouadaeh/Battle-navale-Zrikem) — reinforcement learning game
 Team of 6 · Feb–May 2025
 - Battleship game in Pygame with an AI opponent trained by reinforcement learning.
 
@@ -107,6 +107,6 @@ Arabic (native) · French (advanced) · English (advanced)
 
 <div align="center">
 
-Looking for a **Full-Stack / Data Engineering intern** for 2027? [Let's talk.](mailto:VOTRE-EMAIL)
+Looking for a **Full-Stack / Data Engineering intern** for 2027? [Let's talk.](mailto:mouadaitelhachmi94@gmail.com)
 
 </div>
